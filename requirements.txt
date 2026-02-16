@@ -1,0 +1,8 @@
+opencv-python
+pyserial
+SpeechRecognition
+pyaudio
+torch
+numpy
+facial-emotion-recognition
+# Note: if facial-emotion-recognition fails, ensure deepface or the specific repo you used is installed
